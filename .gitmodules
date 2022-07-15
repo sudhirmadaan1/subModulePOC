@@ -4,3 +4,7 @@
 [submodule "app/TypeScriptSamples"]
 	path = app/TypeScriptSamples
 	url = https://github.com/sudhirmadaan1/TypeScriptSamples.git
+[submodule "app/subModule-test"]
+	path = app/subModule-test
+	url = https://github.com/sudhirmadaan1/subModule-test.git
+	branch=master
