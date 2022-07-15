@@ -1,0 +1,6 @@
+[submodule "app/React-demo"]
+	path = app/React-demo
+	url = https://github.com/sudhirmadaan1/React-demo.git
+[submodule "app/TypeScriptSamples"]
+	path = app/TypeScriptSamples
+	url = https://github.com/sudhirmadaan1/TypeScriptSamples.git
